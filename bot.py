@@ -1,5 +1,3 @@
-# Encrypted by K-fuscator
-# Github- https://github.com/KasRoudra/k-fuscator
 
 abacbuaygcabacbuaygcabacbuaygc = ""
 abacbuaygcabacbuaygcabacbuaygc += "\x61\x57\x31\x77\x62\x33\x4a\x30\x49\x47"
